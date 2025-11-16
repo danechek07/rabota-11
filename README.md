@@ -28,8 +28,8 @@
 <img width="523" height="1082" alt="11" src="https://github.com/user-attachments/assets/7d1a5a7e-4e56-404d-8bb3-81c0d6170b1b" />
 
 
-[chema_11.drawio
-](https://github.com/danechek07/rabota-11/blob/main/11.png)
+[chema_11.drawio](https://github.com/danechek07/rabota-11/blob/main/11.png)
+
 ## 2. [Реализация программы](https://github.com/danechek07/rabota-11/blob/main/dz11.c)
 
 ## 3. Результаты работы программы
